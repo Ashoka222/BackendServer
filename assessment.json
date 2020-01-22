@@ -1,18 +1,29 @@
 {
-"comments":[{
-"id": "1",
-"name": "Family"
-},
-{
-"id": "2",
-"name": "Personal"
-},
-{
-"id": "3",
-"name": "Profetional"
-},
-{
-"id": "4",
-"name": "Health"
-}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "assessment": [
+  {
+    "id": "1",
+    "name": "Family"
+  },
+  {
+    "id": "2",
+    "name": "Personal"
+  },
+  {
+    "id": "3",
+    "name": "Profetional"
+  },
+  {
+    "id": "4",
+    "name": "Health"
+  }
+  ]
 }
